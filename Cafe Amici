@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="cafeamici.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <title>Cafee</title>
+    <header>
+        <div class="navbar">
+            <div class="about">
+            <p>ABOUT US</p>
+        </div>
+    <div class="Menu">
+        <p>MENU</p>
+    </div>
+    
+    <div class="Res">
+        <p>RESERVATION</p>
+    </div>
+    <div class="cafe">
+        <p>Amici</p>
+    </div>
+    <div class="News">
+        <p>NEWS & EVENTS</p>
+    </div>
+    <div class="Gallery">
+        <p>GALLERY</p>
+    </div>
+    <div class="contact">
+        <p>CONTACT US</p>
+    </div>
+</div>
+    </header>
+    <div class="wallpaper">
+        <div class="name">Cafe Amici
+            <div class="tag">From Green to Gourmet: Our Beans Tell a Tale</div>
+            <button class="order">ORDER ONLINE</button>
+        <button class="order-1">RESERVE TABLE</button>
+        <div class="icon">
+            <i class="fa-brands fa-twitter fa-2xs"></i>&nbsp&nbsp;
+            <i class="fa-brands fa-facebook fa-2xs"></i>&nbsp&nbsp;
+            <i class="fa-brands fa-instagram fa-2xs"></i>&nbsp;
+           <i class="fa-solid fa-location-dot fa-2xs"><h1>7,Downstreet,Georgia Park West</h1></i>
+    
+        </div>
+    </div>
+    </div>
+</head>
+<style>
+.fa-location-dot{
+    margin-left:680px;
+    color:white;
+    font-size:20px;
+ }
+ .p{
+    font-family: "Play Display,serif";
+    font-weight:300;
+ }
+</style>
+<body>
+    <div class="section">
+        <div class="text">
+        <A>Your Coffee Break: Sustainable Sips in a Serene Space</A>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas dolore illo nobis incidunt minima reiciendis mollitia magnam pariatur iure facere.
+            </div>
+            <img src="p1.jpg" alt="" height="400" width="300">
+            </p>
+    </div>
+    <div class="section1">
+        <div class="div"></div>
+        <img src="p2.jpg" alt="" height="400" width="300">
+        <div class="text1">
+        <B>From the Seine to Your Cup:A French Cafe Delight</B>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas dolore illo nobis incidunt minima reiciendis mollitia magnam pariatur iure facere.
+            </div>
+            </p>
+    </div>
+    <div class="Menubar"><br>Menu<br>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste saepe voluptatum sapiente atque<br>sit amet consectetur adipisicing elit. Porro illo exercitationem nesciunt voluptate?</p>
+    </div>
+
+    <div class="container">
+        <img src="menu1.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Lorem ipsum dolor sit amet.t</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+
+            <img src="menu2.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Sit mollitia distinctio eveniet.</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+    </div>
+
+    <div class="container">
+        <img src="menu 3.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Lorem ipsum dolor sit amet.t</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+
+            <img src="menu4.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Sit mollitia distinctio eveniet.</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+    </div>
+
+    <div class="container">
+        <img src="menu5.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Lorem ipsum dolor sit amet.t</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+
+            <img src="menu6.jpg" alt="" height="100" width="130">
+        <div class="text2">
+        <D>Sit mollitia distinctio eveniet.</D>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Beatae, minus? Quosfacilis!
+            </div>
+            </p>
+    </div>
+    <br><br>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="w1.jpg" class="d-block w-100" alt="..." height="600px" width="1500px"> 
+            <div class="carousel-caption d-none d-md-block">
+                <h2>Grab the Amazing Offers</h2>
+                <p>Lorem,dolor sit amet consectetur adipisicing elit.amet consectetur adipisicing elit. Beatae, facilis!</p>
+              </div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="w2.jpg" class="d-block w-100" alt="..." height="600px" width="1500px">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>50% OFF Lorem, ipsum.</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit.</p>
+              </div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="w3.jpg" class="d-block w-100" alt="..."height="600px" width="1500px">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>Summer special offers</h2>
+                <p>amet consectetur adipisicing elit. Pariatur, excepturi,Lorem, ipsum dolor.?</p>
+              </div>
+          </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+      
+<div class="OnlineR">
+    <h1>Make online reservation</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, doloremque?</p>
+    <div class="sec1">
+        <form action="/action_page.php">
+        <input type="text1" placeholder="Full Name" id="fname"name="fname" ><br><br>
+        <input type="text2" placeholder="Phone number"id="fname" name="fname" ><br><br>
+        <input type="text3" placeholder="Email id" id="fname" name="fname">
+      </form>
+      </div>
+     
+</div>
+
+<div class="ue">Upcoming Events</div>
+<div class="events">
+    <img src="events.jpg">
+    <div class="text-container">
+        <button class="btn">RESERVE A TABLE</button>
+        <h1>October 8,2023</h1>
+        <p>Lorem ipsum dolor sit ametn consectetur adipisicing elit.<br> Asperiores quo eum fugit culpa consequuntur natus! </p>
+    </div>
+</div>
+<div class="newsletter">
+    <div class="letter">Newsletter</div>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, excepturi!</p>
+    <div class="nl"> <input type="text" name="" id="nl1" style="font-size:35px">
+        <button class="SUB">SUBSCRIBE</button>
+    </div>
+</div>  
+
+<div class="OG">
+    <div class="OurGallery">Our Gallery</div>
+</div>
+    <div class="g1">
+    <img src="workspace.jpg" alt="" width="200"height="300">
+    <img src="win.jpg" alt="" width="500" height="300">
+    <img src="leaf.jpg" alt="" width="200"height="300">
+    </div>
+<div class="g2">
+    <img src="coffee.jpg" alt=""width="200"height="300">
+    <img src="view.jpg" alt=""width="500" height="300">
+    <img src="chair.jpg" alt="" width="200"height="300">
+</div>
+
+<footer>
+    <div class="AS"><h4>ABOUT US</h4>
+     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.<br>Dolores explicabo libero reiciendis molestias! Mollitia, ab!<br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+</div>  
+
+<div class="CI"><h4>CONTACT INFO</h4>
+   <p>7,Downstreet,Georgia Park West,Paris,100027</p>
+   <p>+1 762 981 005</p>
+   <p>admin@domain.com</p>
+</div>  
+
+<div class="OH"><h4>OPENING HOURS</h4>
+    <p>MONDAY-THURSDAY</p>
+    <p>10:00 AM-11:00 PM</p>
+    <p>FRIDAY-SATURDAY</p>
+    <p>11:00 AM-4:00 PM</p>
+    
+ </div>  
+ </footer>
+</body>
+</html>
